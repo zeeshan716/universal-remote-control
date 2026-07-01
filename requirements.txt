@@ -1,0 +1,18 @@
+# Python dependencies for robotics projects
+# Edit this file to match your project's actual requirements.
+# Install with:  pip install -r requirements.txt
+
+# ── Core Scientific / Numerical ───────────────────────────────────────────────
+numpy
+
+# ── Computer Vision ───────────────────────────────────────────────────────────
+opencv-python
+
+# ── Serial Communication ──────────────────────────────────────────────────────
+pyserial
+
+# ── Raspberry Pi GPIO (remove if not using RPi) ───────────────────────────────
+RPi.GPIO
+
+# ── Data Visualisation ────────────────────────────────────────────────────────
+matplotlib
